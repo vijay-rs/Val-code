@@ -157,7 +157,7 @@
       <h2>YAY!!🤩🎉♾️🫂</h2>
       <img
         class="fireworks"
-        src="20251220_134523.heic"
+        src="20250509_125055(1).jpg"
         alt="Fireworks"
       />
     </section>
@@ -252,4 +252,5 @@
     });
   </script>
 </body>
+
 </html>
